@@ -81,6 +81,7 @@ GPT‑4o 六大亮点
 41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
 42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
 43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
+
 ---
 
 
@@ -797,6 +798,27 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 **需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg))。
 
 ---
+## 案例 44：用个人照片制作Q版表情包 (by [@hellokaton](https://x.com/hellokaton))
+
+[原文链接](https://x.com/hellokaton/status/1910900979194646959)
+
+<img src="./examples/example_two_panel_manga_president.jpeg" width="300" alt="日系双格漫画：少女总统因电话未接通而生气加关税">
+
+**提示词：**
+```
+创作一套全新的 chibi sticker，共六个独特姿势，以用户形象为主角：
+1. 双手比出剪刀手，俏皮地眨眼；
+2. 泪眼汪汪、嘴唇微微颤动，呈现可爱哭泣的表情；
+3. 张开双臂，做出热情的大大拥抱姿势；
+4. 侧卧入睡，靠着迷你枕头，带着甜甜的微笑；
+5. 自信满满地向前方伸手指，周围点缀闪亮特效；
+6. 手势飞吻，周围飘散出爱心表情。
+保留 chibi 美学风格：夸张有神的大眼睛、柔和的面部线条、活泼俏皮的短款黑色发型、配以大胆领口设计的白色服饰，背景使用充满活力的红色，并搭配星星或彩色纸屑元素进行装饰。周边适当留白。
+Aspect ratio: 9:16
+
+```
+
+
 
 ## 🙏 致谢
 
